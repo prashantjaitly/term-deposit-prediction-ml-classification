@@ -42,11 +42,11 @@ The **Decision Tree Classifier** significantly outperformed the Logistic Regress
 
 ### 🔹 3. Correlation Analysis
 The analysis identified strong correlations between **Duration** and **Subscription Success**, validating the feature selection strategy.
-![Model Performance](model_performance.jpg)
+![Model Performance](model_performance.JPG)
 
 ---
 
 ## 📂 Repository Structure
 * [01_term_deposit_prediction.ipynb](01_term_deposit_prediction.ipynb): Complete Python code (Data Cleaning -> EDA -> Modeling).
 * [02_bank_marketing_data.csv](02_bank_marketing_data.csv): Historical dataset used for training.
-* `model_performance.jpg`: Visualization of results.
+* `model_performance.JPG`: Visualization of results.
